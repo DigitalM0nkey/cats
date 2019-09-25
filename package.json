@@ -1,0 +1,24 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncBreeds.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalM0nkey/cats.git"
+  },
+  "keywords": [],
+  "author": "Terrence Kuiper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalM0nkey/cats/issues"
+  },
+  "homepage": "https://github.com/DigitalM0nkey/cats#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
